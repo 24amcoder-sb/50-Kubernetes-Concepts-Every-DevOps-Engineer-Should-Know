@@ -1,7 +1,8 @@
 repo_name: 24amcoder-sb/50-Kubernetes-Concepts-Every-DevOps-Engineer-Should-Know
 report_id: f3eb7f93c8b4eaff9a903a264798a5fe
+version: 0.1
 repo_type: Public
-timestamp: '2023-11-16T04:21:07+00:00'
+timestamp: '2024-01-05T08:39:44+00:00'
 requested_by: Packt-ITService
 provider: github
 branch: main
@@ -17,6 +18,7 @@ tools:
   category: Languages & Frameworks
   sub_category: Languages
   image_url: https://img.stackshare.io/service/1005/O6AczwfV_400x400.png
+  detection_source_url: https://github.com/24amcoder-sb/50-Kubernetes-Concepts-Every-DevOps-Engineer-Should-Know/blob/main/Ch5/example.go
   detection_source: Ch5/example.go
 - name: Smarty
   description: Template engine for PHP
@@ -26,6 +28,7 @@ tools:
   category: Languages & Frameworks
   sub_category: Templating Languages & Extensions
   image_url: https://img.stackshare.io/service/3693/smarty.png
+  detection_source_url: https://github.com/24amcoder-sb/50-Kubernetes-Concepts-Every-DevOps-Engineer-Should-Know
   detection_source: Repo Metadata
 - name: Git
   description: Fast, scalable, distributed revision control system
@@ -35,4 +38,5 @@ tools:
   category: Build, Test, Deploy
   sub_category: Version Control System
   image_url: https://img.stackshare.io/service/1046/git.png
+  detection_source_url: https://github.com/24amcoder-sb/50-Kubernetes-Concepts-Every-DevOps-Engineer-Should-Know
   detection_source: Repo Metadata
