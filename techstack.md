@@ -26,7 +26,7 @@ Full tech stack [here](/techstack.md)
 # Tech Stack File
 ![](https://img.stackshare.io/repo.svg "repo") [24amcoder-sb/50-Kubernetes-Concepts-Every-DevOps-Engineer-Should-Know](https://github.com/24amcoder-sb/50-Kubernetes-Concepts-Every-DevOps-Engineer-Should-Know)![](https://img.stackshare.io/public_badge.svg "public")
 <br/><br/>
-|3<br/>Tools used|01/05/24 <br/>Report generated|
+|3<br/>Tools used|02/29/24 <br/>Report generated|
 |------|------|
 </div>
 
